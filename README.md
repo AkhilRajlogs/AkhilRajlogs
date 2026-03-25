@@ -36,7 +36,7 @@ It includes:
 
 Repository:
 
-backend-learning-journey
+[backend-learning-journey](https://github.com/AkhilRajlogs/backend-learning-journey)
 
 ---
 
@@ -50,16 +50,26 @@ Console-based Java implementation demonstrating object-oriented design and board
 
 Implementation of the classic board game focusing on board modeling and rule enforcement.
 
+### Task Manager API (Spring Boot)
+
+RESTful backend service with:
+
+- Full CRUD operations
+- PostgreSQL integration (JPA/Hibernate)
+- DTO pattern (Request/Response separation)
+- Validation and global exception handling
+
+Demonstrates production-style backend architecture.
+
 ---
 
 ## Current Focus
 
-Currently working on:
-
-- Spring Boot backend development
-- REST API design
-- Database integration using PostgreSQL
-- Building production-style backend services
+- Building production-ready Spring Boot APIs  
+- Exception handling and clean architecture  
+- REST API design  
+- Database integration using PostgreSQL  
+- Preparing for backend interviews  
 
 ---
 

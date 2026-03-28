@@ -1,14 +1,22 @@
 # Hi, I'm Akhil Raj
 
-Mechanical Engineering graduate transitioning into Backend Software Development.
+Backend Developer (Java + Spring Boot) transitioning from Mechanical Engineering with 6+ years of industry experience.
 
-With 6+ years of engineering industry experience, I am currently focused on building production-oriented backend systems using Java, Spring Boot, SQL, and REST APIs.
-
-This GitHub profile documents my transition into backend development through structured learning and real project building.
+I focus on building production-oriented backend systems using Java, Spring Boot, SQL, and REST APIs.
 
 ---
 
-## Backend Tech Stack
+## What I'm Currently Doing
+
+- Building production-ready Spring Boot APIs  
+- Designing clean backend architecture (Controller → Service → Repository)  
+- Implementing validation and global exception handling  
+- Integrating PostgreSQL using JPA/Hibernate  
+- Preparing for backend interviews  
+
+---
+
+## Tech Stack
 
 Java  
 Spring Boot  
@@ -16,65 +24,61 @@ REST APIs
 SQL / PostgreSQL  
 JPA / Hibernate  
 Multithreading & Concurrency  
-Git & GitHub
+Git & GitHub  
 
 ---
 
-## Featured Repository
-
-### Backend Learning Journey
-
-A structured repository documenting my transition into backend engineering.
-
-It includes:
-
-- Core Java fundamentals
-- Java Collections Framework
-- Multithreading and concurrency
-- Exception handling
-- Backend development preparation
-
-Repository:
-
-[backend-learning-journey](https://github.com/AkhilRajlogs/backend-learning-journey)
-
----
-
-## Projects
-
-### TicTacToe
-
-Console-based Java implementation demonstrating object-oriented design and board game logic.
-
-### Othello
-
-Implementation of the classic board game focusing on board modeling and rule enforcement.
+## Featured Project
 
 ### Task Manager API (Spring Boot)
 
-RESTful backend service with:
+A production-style REST API demonstrating backend architecture and best practices.
 
-- Full CRUD operations
-- PostgreSQL integration (JPA/Hibernate)
-- DTO pattern (Request/Response separation)
-- Validation and global exception handling
+Key highlights:
 
-Demonstrates production-style backend architecture.
+- Full CRUD operations  
+- PostgreSQL integration (JPA/Hibernate)  
+- DTO pattern (Request/Response separation)  
+- Validation using Jakarta annotations  
+- Global exception handling  
+- Consistent API response structure  
 
----
-
-## Current Focus
-
-- Building production-ready Spring Boot APIs  
-- Exception handling and clean architecture  
-- REST API design  
-- Database integration using PostgreSQL  
-- Preparing for backend interviews  
+Repository:  
+https://github.com/AkhilRajlogs/backend-learning-journey
 
 ---
 
-## Learning Approach
+## Other Projects
 
-My focus is on building practical systems and understanding how backend services are designed rather than only completing tutorials.
+### TicTacToe
 
-This repository will continue evolving as I build real backend applications.
+Console-based Java project demonstrating object-oriented design and game logic.
+
+### Othello
+
+Board game implementation focused on modeling and rule enforcement.
+
+---
+
+## Backend Learning Journey
+
+Structured repository documenting my transition into backend development:
+
+- Core Java fundamentals  
+- Collections and multithreading  
+- Backend development using Spring Boot  
+- Real project implementation  
+
+Repository:  
+https://github.com/AkhilRajlogs/backend-learning-journey
+
+---
+
+## Goal
+
+To become a job-ready backend developer capable of building real-world backend systems using:
+
+- Java  
+- Spring Boot  
+- SQL  
+- REST APIs  

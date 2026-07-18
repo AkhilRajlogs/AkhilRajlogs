@@ -1,6 +1,7 @@
 # Hi, I'm Akhil Raj
 
-Backend Developer (Java + Spring Boot) transitioning from Mechanical Engineering with 6+ years of industry experience.
+Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
+Transitioning from Mechanical Engineering with 6+ years of professional industry experience.
 
 I focus on building production-oriented backend systems using Java, Spring Boot, SQL, and REST APIs.
 
@@ -8,7 +9,7 @@ I focus on building production-oriented backend systems using Java, Spring Boot,
 
 ## What I'm Currently Doing
 
-- Building production-ready Spring Boot APIs  
+- Completing an industry-oriented Spring Boot learning roadmap while building production-style backend projects  
 - Designing clean backend architecture (Controller → Service → Repository)  
 - Implementing validation and global exception handling  
 - Integrating PostgreSQL using JPA/Hibernate  
@@ -41,7 +42,10 @@ Key highlights:
 - DTO pattern (Request/Response separation)  
 - Validation using Jakarta annotations  
 - Global exception handling  
-- Consistent API response structure  
+- Consistent API response structure
+- Pagination and sorting
+- Swagger/OpenAPI documentation
+- JUnit & Mockito testing
 
 Repository:  
 https://github.com/AkhilRajlogs/backend-learning-journey
@@ -76,8 +80,8 @@ https://github.com/AkhilRajlogs/backend-learning-journey
 
 ## Goal
 
-To become a job-ready backend developer capable of building real-world backend systems using:
-
+To build scalable backend applications using Java and Spring Boot while continuously improving software engineering, API design, and backend architecture skills using:
+  
 - Java  
 - Spring Boot  
 - SQL  
